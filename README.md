@@ -3,8 +3,7 @@
 ## NOTE
 
 1. This project have been made on Power BI using the **walmart data sales** ( from kaggle ).
-2. Link for the project on Power BI services :https://app.powerbi.com/links/ex8xxGG2Eg?ctid=34b5518a-4699-4365-8139-0d2d2a7158e1&pbi_source=linkShare&bookmarkGuid=c3f2db58-69dd-4ed7-8c72-d06ccb518d29
-3. Before viewing the read me structure ( i.e Dashboards and insights etc directly) , its recommended to go through the Major Target file and walmart sales excel file etc.
+2. Before viewing the read me structure ( i.e Dashboards and insights etc directly) , its recommended to go through the Major Target file and walmart sales excel file etc.
 
 ## Purpose of the project :
 1. Power Bi helps in developing interactive dashboards , hence you can extract visual information by just cliking on any segment of visual.
